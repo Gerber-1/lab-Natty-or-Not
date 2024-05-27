@@ -22,6 +22,6 @@ O resultado é um ebook completo que oferece uma análise profunda e prática da
 Criar um conteúdo tão detalhado e relevante com o auxílio da IA foi um desafio interessante. A capacidade da IA de compreender e interpretar textos complexos permitiu a geração de um material rico em conteúdo e insights. No entanto, foi essencial a intervenção humana para garantir a precisão teológica e a relevância prática das lições apresentadas.
 
 
-
+[LINK EBOOK](https://github.com/Gerber-1/lab-Natty-or-Not/blob/main/Ebook%20Dio.pdf).
 
 
